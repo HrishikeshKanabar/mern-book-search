@@ -6,7 +6,7 @@
 
 ## View Demo
 
-
+https://mernsearchengine.herokuapp.com/
 
 ## Web Application (how to use)
 
@@ -22,7 +22,16 @@ FEW FEATURES:
 
 FULL SCREEN VIEW         |  
 :--------------------------------:|
-![Full Screen]()
+![Full Screen](https://github.com/HrishikeshKanabar/mern-book-search/blob/main/client/src/assests/images/mainpage.JPG)
+
+LOGIN PAGE       |  
+:--------------------------------:|
+![LOGIN PAGE](https://github.com/HrishikeshKanabar/mern-book-search/blob/main/client/src/assests/images/login.JPG)
+
+SIGNUP PAGE        |  
+:--------------------------------:|
+![LOGIN PAGE ](https://github.com/HrishikeshKanabar/mern-book-search/blob/main/client/src/assests/images/signup.JPG)
+
 
 ## Task achieved
 
